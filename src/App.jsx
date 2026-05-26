@@ -64,7 +64,7 @@ function App() {
       setTimeout(() => {
         setFeedback(null)
         setIsAnimating(false)
-      }, 2000)
+      }, 3000)
     }
   }
 
